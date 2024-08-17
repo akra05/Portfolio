@@ -1,0 +1,12 @@
+div.header_links{
+    display: grid;  
+    grid-template-columns: 33% 33% 33%;
+    
+}
+div{
+    display: flex; 
+    justify-content: center;
+}
+img {
+    width: 50%;   
+}
